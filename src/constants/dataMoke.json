@@ -1,0 +1,59 @@
+{
+    "category":[
+        {
+            "name": "Phones",
+            "description": "",
+            "brands": [
+                {
+                    "name": "Apple",
+                    "description": "",
+                    "models": [
+                        {
+                            "name": "iPhone 6",
+                            "description": "200+ devices",
+                            "variant": [
+                                {
+                                    "name": "128GB",
+                                    "description": "200+ devices"
+                                },
+                                {
+                                    "name": "256GB",
+                                    "description": "100+ devices"
+                                },
+                                {
+                                    "name": "512GB",
+                                    "description": "50+ devices"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "iPhone 7",
+                            "description": "200+ devices",
+                            "variant": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Samsung",
+                    "description": "500+ Galaxy S21 and 2.5k+ other models",
+                    "models": []
+                }
+            ]
+        },
+        {
+            "name": "Computers",
+            "description": "200+ macbooks, 500+ PCs.",
+            "brands": []
+        },
+        {
+            "name": "Watches",
+            "description": "150+ Apple watches, 200+ Samsung watches",
+            "brands": []
+        },
+        {
+            "name": "TVs",
+            "description": "20+ Samsung Tv, 50+ Apple Tvs",
+            "brands": []
+        }
+    ]
+}
